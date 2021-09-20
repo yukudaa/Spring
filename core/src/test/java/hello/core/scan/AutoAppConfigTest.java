@@ -24,3 +24,4 @@ public class AutoAppConfigTest {
         System.out.println("memberRepository = " + memberRepository);
     }
 }
+
