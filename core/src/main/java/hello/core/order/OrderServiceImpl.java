@@ -57,3 +57,4 @@ public class OrderServiceImpl implements OrderService{
     public void setMemberRepository(MemoryMemberRepository memoryMemberRepository) {
     }
 }
+
