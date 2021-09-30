@@ -35,3 +35,4 @@ public class MyLogger {
         System.out.println("[" + uuid + "] request scope bean close:" + this );
     }
 }
+
